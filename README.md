@@ -17,7 +17,7 @@ The previous edits made by PTI Costa Rica were made in Unity 2017.1.0f3 and the 
 #
 To reiterate the statement above, this repository is solely for ease of access and is controlled by the Tutor's discretion. If the Tutor/host of the Github repository feels as if there is copyright infringement occuring, they may contact me to have it removed/migrated. 
 #
-The License and GitIgnore have been kept attached to the project and the project has been maintained to be in good working order with minimal file size for the end user.
+The License of the Original Owner has been kept attached to the project and the project has been maintained to be in good working order with minimal file size for the end user.
 #
 #
 "PTI Costa Rica" and the Github user "efonsecab" reserve the right to remove, migrate, host or retain this project for themselves and I am contactable at yellinglionstudios@gmail.com .
