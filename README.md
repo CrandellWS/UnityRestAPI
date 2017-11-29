@@ -1,5 +1,12 @@
 # UnityRestAPI
+#
 https://www.youtube.com/watch?v=9rPJeRF7S_8
+#
+Tutorial References:
+
+http://json2csharp.com/
+http://restcountries.eu/rest/v2/all
+#
 #
 This Git and all it's contents are not owned by the distributor and have been cleaned for the purpose of allocating a smaller file to the owner and his/her viewers.
 #
